@@ -41,6 +41,8 @@ li {
     font-weight: 300;
 }
 
+/* SECTION 1 */
+
 #hero-1 {
     background-color: #1f2937;
     padding: 10vh 15vw;
@@ -70,6 +72,17 @@ li {
 .container {
     max-width: 33vw;
 }
+
+/* SECTION 2 */
+
+#hero-2 {
+    padding: 10vh 15vw;
+    
+}
+
+/* SECTION 3 */
+
+
 
 #button {
     padding: .5rem 2rem;
