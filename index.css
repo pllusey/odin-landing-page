@@ -170,6 +170,17 @@ li {
     border: 2px solid white;
 }
 
+/* FOOTER */
+
+#footer {
+    background-color: #1f2937;
+    padding: 3vh; 
+    text-align: center;
+    color: #E5E7EB;
+    font-weight: 200;
+    letter-spacing: .1rem;
+}
+
 #button {
     padding: .5rem 2rem;
     border-radius: 10px;
