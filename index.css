@@ -122,6 +122,25 @@ li {
 
 /* SECTION 3 */
 
+#hero-3 {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+    padding: 15vh 20vw;
+}
+
+.hero-3-para {
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+.quote-source {
+    padding-right: 5vw;
+    padding-top: 2rem;
+    font-size: 1.5rem;
+}
 
 
 #button {
