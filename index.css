@@ -142,6 +142,33 @@ li {
     font-size: 1.5rem;
 }
 
+/* CTA SECTION */
+
+.cta-container {
+   padding: 10vh 15vw; 
+}
+
+.cta-box {
+    background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-between;
+    padding: 5vh 10vw;
+    border-radius: .5rem;
+}
+
+.cta-box h4 {
+    font-size: 1.2rem;
+}
+
+.cta-box p {
+    font-weight: 200;
+    color: #E5E7EB;
+}
+
+.cta-box #button {
+    border: 2px solid white;
+}
 
 #button {
     padding: .5rem 2rem;
